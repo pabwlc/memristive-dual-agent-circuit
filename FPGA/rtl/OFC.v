@@ -34,7 +34,7 @@ module OFC (
         .GOFF     (1453),
         .GINIT    (1954),
         .GTH_ON  (34000),
-        .GTH_OFF (29000),
+        .GTH_OFF (32000),
         .LG_BIN1  (15759),
         .LG_BIN2  (31658),
         .LG_BIN3  (33508),

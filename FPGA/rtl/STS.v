@@ -88,7 +88,7 @@ module STS #(
         .GON      (62500),
         .GOFF     (1453),
         .GINIT    (2063),
-        .GTH_ON   (39675),
+        .GTH_ON   (38900),
         .GTH_OFF  (44123),
         .LG_BIN1  (12468),
         .LG_BIN2  (25152),
