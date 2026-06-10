@@ -2,7 +2,7 @@
 
 This repository provides hardware and FPGA implementation files for the hybrid analog--FPGA prototype associated with the paper:
 
-**A Memristive Neuromorphic Circuit for Dual-Agent Imitation Learning and Inequity-Related Emotion Modulation**
+**A Dual-Agent Memristive Neuromorphic Circuit for Imitation Learning and Inequity-Related Modulation**
 
 The repository is intended to facilitate inspection and reproduction of the analog signal-processing board and FPGA-based state-transition logic used in the prototype.
 
