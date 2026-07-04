@@ -45,4 +45,4 @@ This repository provides implementation details of the analog signal-processing 
 
 If you use these files, please cite the associated paper:
 
-**A Dual-Agent Memristive Circuit for Imitation Learning and Inequity-Related Emotion Modulation**
+**Memristor-Based Circuit of Dual-Agent Imitation Learning and Emotion Modulation**
